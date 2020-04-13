@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+*.cproj
+*.xml
+Software/GccApplication1/.vs/GccApplication1/v14/.atsuo
+Software/GccApplication1/GccApplication1/Debug/GccApplication1.eep
+*.atsln
+*.lss
+*.srec
+*.mk
+Software/GccApplication1/GccApplication1/Debug/Makefile
