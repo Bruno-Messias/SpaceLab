@@ -7,7 +7,7 @@
  
   * Software
   
-    - [ ] AVR programming *Arduino Uno*
+    - [x] AVR programming *Arduino Uno*
     
   * Hardware
   
