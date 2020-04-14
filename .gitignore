@@ -59,3 +59,6 @@ Software/GccApplication1/GccApplication1/Debug/GccApplication1.eep
 *.srec
 *.mk
 Software/GccApplication1/GccApplication1/Debug/Makefile
+*.eep
+Software/Button_Holder/Button_Holder/Debug/Makefile
+Software/Button_Holder/.vs/Button_Holder/v14/.atsuo
