@@ -11,7 +11,7 @@
  */ 
 
 // -- Frequency --
-#define F_CPU 16000000			//Define clock cycle of the device
+#define F_CPU 16000000UL			//Define clock cycle of the device
 
 // -- Librarys --
 #include <avr/io.h>
@@ -20,21 +20,24 @@
 // -- Macros --
 #define set_bit(reg,bit)		(reg |= (1<<bit))		//Creating macros to easy use
 #define reset_bit(reg,bit)		(reg &= ~(1<<bit))
-#define read_byte(reg,bytex)	(reg && bytex)
+#define read_byte(reg,bytex)	(reg & (1<<bytex))
 																			
 // -- Prototype --
 int button_hold(unsigned char regi, unsigned char bits);
-
 // -- Main -- 
+
 int main (void)
 {
 	
-	reset_bit(DDRB,PORTB4); //Setando PORTB4 como entrada(Pino 12 do arduino)
+	reset_bit(DDRB,PORTB0); //Setando PORTB4 como entrada(Pino 12 do arduino)
 	set_bit(DDRB,PORTB5);	//Setando	PORTB5 como saída(Pino 13 /LED) 
+	set_bit(PORTB,PORTB0);	// Enabling Internal Pull-Up at PB4
     
     while (1) 
     {
-		if (button_hold(PINB,(1<<PORTB4)))
+		int x = button_hold(PINB,PINB0);
+		
+		if(x == 1)
 		{
 			set_bit(PORTB,PORTB5);
 		}
@@ -42,6 +45,7 @@ int main (void)
 		{
 			reset_bit(PORTB,PORTB5);
 		}
+
 	}	
 
 }
@@ -51,17 +55,17 @@ int button_hold(unsigned char regi, unsigned char bits)
 {
 	while(1)
 	{
-		if (read_byte(regi,bits))
+		if (read_byte(regi,bits) == 1)
 		{
-			while(read_byte(regi,bits))
+			while(read_byte(regi,bits) == 1)
 			{
-				return 0;
+				return 1;
 			}
 			
 			while(1)
 			{
 				return 1;
-				if (read_byte(regi,bits))
+				if (read_byte(regi,bits) == 1)
 				{
 					break;
 				}
@@ -74,16 +78,3 @@ int button_hold(unsigned char regi, unsigned char bits)
 }
 
 
-//Test
-/*
-if(read_bit(PINB,PORTB4)
-{
-	set_bit(PORTB,PORTB5);
-}
-else
-{
-	reset_bit(PORTB,PORTB5);
-}
-
-
-*/

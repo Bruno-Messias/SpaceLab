@@ -62,3 +62,7 @@ Software/GccApplication1/GccApplication1/Debug/Makefile
 *.eep
 Software/Button_Holder/Button_Holder/Debug/Makefile
 Software/Button_Holder/.vs/Button_Holder/v14/.atsuo
+*.Zip
+*.LOG
+*.SchDocPreview
+*.PrjPCBStructure
