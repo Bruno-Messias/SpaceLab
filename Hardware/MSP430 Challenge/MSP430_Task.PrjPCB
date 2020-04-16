@@ -38,24 +38,24 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=LED.SchDoc
+DocumentPath=MPS430_Task.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=0
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DHYIXXSI
+DocumentUniqueId=DKRLFDBS
 
 [Document2]
-DocumentPath=LED.PcbDoc
+DocumentPath=..\..\..\..\..\..\Downloads\SOT95P280X145-6N\Imported SOT95P280X145-6N.lia\SOT95P280X145-6N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -69,10 +69,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UNAAATWT
+DocumentUniqueId=JCXAPXFH
 
 [Document3]
-DocumentPath=LED_Schlib.SchLib
+DocumentPath=..\..\..\..\..\..\Downloads\GRM155R71C222KA01D\Imported GRM155R71C222KA01D.lia\GRM155R71C222KA01D.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -86,10 +86,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IVVANWMQ
+DocumentUniqueId=KORYOJEN
 
 [Document4]
-DocumentPath=LED_PcbLib.PcbLib
+DocumentPath=MSP430_Task.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -103,10 +103,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XXGTLTFJ
+DocumentUniqueId=DUYYNLXL
 
 [Document5]
-DocumentPath=Led_Job.OutJob
+DocumentPath=SheetMSP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -120,10 +120,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WXUSLNCY
 
 [Document6]
-DocumentPath=LED.PCBDwf
+DocumentPath=MSP430_Task.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137,101 +137,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
-
-[ProjectVariant1]
-UniqueID=87244E59-960C-4564-991A-40922E2D6FC3
-Description=LED2 Not Fited
-AllowFabrication=0
-ParameterCount=0
-VariationCount=2
-Variation1=Designator=D2|UniqueId=\GLFSIKGU|Kind=1|AlternatePart= 
-Variation2=Designator=R2|UniqueId=\JMBDVQCY|Kind=1|AlternatePart= 
-ParamVariationCount=0
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Tuturial\NC Drill Files\[No Variations].DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Tuturial\Gerber Files\[No Variations].EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Tuturial\Gerber Files\[No Variations].GBL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Tuturial\Gerber Files\[No Variations].GBO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Tuturial\Gerber Files\[No Variations].GBP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Tuturial\Gerber Files\[No Variations].GBS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Tuturial\Gerber Files\[No Variations].GM2
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Tuturial\Gerber Files\[No Variations].GTL
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Tuturial\Gerber Files\[No Variations].GTO
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Tuturial\Gerber Files\[No Variations].GTP
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Tuturial\Gerber Files\[No Variations].GTS
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Tuturial\NC Drill Files\[No Variations].LDP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Tuturial\Gerber Files\[No Variations].REP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Tuturial\Gerber Files\[No Variations].RUL
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Tuturial\Export STEP\[No Variations].step
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Tuturial\Generates pick and place files\[No Variations].txt
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Tuturial\NC Drill Files\[No Variations].TXT
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Tuturial\Bill of Materials\[No Variations].xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Tuturial\Design Rule Check - LED.html
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Tuturial\Export STEP\LED2 Not Fited.step
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Tuturial\Bill of Materials\LED2 Not Fited.xlsx
-DItemRevisionGUID=
+DocumentUniqueId=VTCOSVMO
 
 [Configuration1]
 Name=Sources
@@ -243,13 +149,10 @@ OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
-[Generic_EDE]
-OutputDir=
-
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=HPF2BE6A (HP DeskJet 3630 series)
+TargetPrinter=OneNote
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -427,7 +330,7 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=HPF2BE6A (HP DeskJet 3630 series)
+TargetPrinter=OneNote
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -449,7 +352,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HPF2BE6A (HP DeskJet 3630 series)
+TargetPrinter=OneNote
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -521,7 +424,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=HPF2BE6A (HP DeskJet 3630 series)
+TargetPrinter=OneNote
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -558,7 +461,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=HPF2BE6A (HP DeskJet 3630 series)
+TargetPrinter=OneNote
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -738,7 +641,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=HPF2BE6A (HP DeskJet 3630 series)
+TargetPrinter=OneNote
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Server's components states check
@@ -777,7 +680,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=HPF2BE6A (HP DeskJet 3630 series)
+TargetPrinter=OneNote
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -824,11 +727,41 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Ansoft Neutral
+OutputName10=Ansoft Neutral (AutoPCB)
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=HyperLynx
+OutputName11=HyperLynx (AutoPCB)
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Orcad v7 Capture Design
+OutputName12=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=P-CAD ASCII
+OutputName13=P-CAD ASCII (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=P-CAD V16 Schematic Design
+OutputName14=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=SiSoft
+OutputName15=SiSoft (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=HPF2BE6A (HP DeskJet 3630 series)
+TargetPrinter=OneNote
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
