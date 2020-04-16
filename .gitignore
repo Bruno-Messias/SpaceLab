@@ -66,3 +66,9 @@ Software/Button_Holder/.vs/Button_Holder/v14/.atsuo
 *.LOG
 *.SchDocPreview
 *.PrjPCBStructure
+*.drc
+*.html
+*.PrjPCBVariants
+Hardware/Tutorial Altium/Tuturial.PrjPCBVariants
+Hardware/Tutorial Altium/Tuturial.PrjPCBVariants
+*.PrjPCBVariants
