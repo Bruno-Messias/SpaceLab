@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+C:\Users\bruno\OneDrive\Documentos\GitHub\SpaceLab\Hardware\Tutorial Altium\Project Outputs for Tuturial\Generates pick and place files\[No Variations].txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       16/04/20
+Time:       15:26
+Revision:   485bbea4e03263e619766c4f2c8a040c535a0d90
+Variant:    No variations
+Units used: mil
+
+Designator Comment      Layer       Footprint        Center-X(mil) Center-Y(mil) Rotation Description                                                      
+R2         360R         BottomLayer R_CRCW0805       688.976       472.441       90       "RES SMD 3.6 OHM 1% 1/8W 0805"                                   
+D2         GREEN        BottomLayer LED_LNJ626_GREEN 688.976       244.095       90       "PANASONIC - LNJ626W8CRA - LED, REINGRÜN, HIGH-BRIGHTNESS, 0603" 
+R1         360R         TopLayer    R_CRCW0805       196.850       610.236       90       "RES SMD 3.6 OHM 1% 1/8W 0805"                                   
+J1         "1x2 Header" TopLayer    HDR1X2           551.181       402.756       0        "Conn Wire to Board HDR 2 POS 2.54mm Solder ST Thru-Hole Bag"    
+D1         GREEN        TopLayer    LED_LNJ626_GREEN 196.850       236.220       90       "PANASONIC - LNJ626W8CRA - LED, REINGRÜN, HIGH-BRIGHTNESS, 0603" 
