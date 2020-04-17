@@ -1,0 +1,25 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 17:24:02 On 17/04/2020
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [MSP430_Task.PcbDoc]
+   Generated File[MSP430_Task.GTO]
+   Generated File[MSP430_Task.GTP]
+   Generated File[MSP430_Task.GTS]
+   Generated File[MSP430_Task.GTL]
+   Generated File[MSP430_Task.GBL]
+   Generated File[MSP430_Task.GBS]
+   Generated File[MSP430_Task.GBP]
+   Generated File[MSP430_Task.GBO]
+   Generated File[MSP430_Task.GM2]
+   Generated File[MSP430_Task.RUL]
+   Generated File[MSP430_Task.EXTREP]
+   Generated File[MSP430_Task.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 17:24:05 On 17/04/2020
