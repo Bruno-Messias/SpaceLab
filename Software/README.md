@@ -10,6 +10,7 @@ Materiais desenvolvidos sobre avr programming usando o **ATMEGA328P**(*Arduino U
 
 * Blink  *Completo*
 * Button_holder *Incompleto*
+  * Considerar bounce effect no botão
 
 ### Arquivos
 
