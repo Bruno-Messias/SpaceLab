@@ -8,3 +8,5 @@ Repositório contendo projetos desenvolvidos em *Altium*
 
 * [Tutorial ALTIUM](https://www.youtube.com/playlist?list=PLXvLToQzgzdfKKQn2wmpuSXz6sROQmO6R)
 * MSP430 Challenge 
+
+---
