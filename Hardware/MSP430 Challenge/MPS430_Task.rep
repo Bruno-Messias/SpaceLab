@@ -1,0 +1,23 @@
+CSV text has been written to file : MPS430_Task.csv
+
+Library Component Count : 16
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+CBR04C120F5GAC      KEMET - CBR04C120F5GAC - Capacitor, RF, C0G / NP0, 12 pF, 50 V, HiQ-CBR Series, ± 1%, 125 °C, 0402 [1005 Metric]
+Cap 2.2nF/16V_0402  Imported
+Cap_Cer_X7R_0.1uF_25V_0805CAP CER 0.1UF 25V 10% X7R 0805
+Cap_Cer_X7R_0.47uF_50V_0805CAP CER 0.47UF 50V 10% X7R 0805
+Cap_Cer_X7R_10pF_100V_0805CAP CER 10pF 100V 0805
+Cap_Cer_X7R_1nF_16V_0603CAP CER 1nF 16V 0603 5%
+FB_30R_3A_100MHz_0805Ferrite Bead 30 OHM 3A 100MHz
+Header 2            Header, 2-Pin
+Header 6H_PicoBlade Header, 6-Pin, Right Angle
+LED/G_0805          SMD Green LED
+MSP430F6659IPZR     
+R1.65K_1%_1/10W_0805RES 1.65K OHM 1/10W 0.1% 0805
+Resistor 330        
+Resistor 47 Kohms   Imported
+TLV341AIDBVR        TLV341AIDBVR
+Xtal_32.768kHz_12pF_2_SMD32.768kHz ±20ppm Crystal 12.5pF 70 kOhm -40°C ~ 125°C

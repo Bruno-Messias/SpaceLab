@@ -127,54 +127,62 @@ DocumentPath=Project Outputs for MSP430_Task\Design Rule Check - MSP430_Task.htm
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for MSP430_Task\Gerber Files\Gerber\MSP430_Task.EXTREP
+DocumentPath=MPS430_Task.csv
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for MSP430_Task\Gerber Files\Gerber\MSP430_Task.GBL
+DocumentPath=MPS430_Task.rep
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for MSP430_Task\Gerber Files\Gerber\MSP430_Task.GBO
+DocumentPath=Project Outputs for MSP430_Task\Gerber Files\Gerber\MSP430_Task.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for MSP430_Task\Gerber Files\Gerber\MSP430_Task.GBP
+DocumentPath=Project Outputs for MSP430_Task\Gerber Files\Gerber\MSP430_Task.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for MSP430_Task\Gerber Files\Gerber\MSP430_Task.GBS
+DocumentPath=Project Outputs for MSP430_Task\Gerber Files\Gerber\MSP430_Task.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for MSP430_Task\Gerber Files\Gerber\MSP430_Task.GM2
+DocumentPath=Project Outputs for MSP430_Task\Gerber Files\Gerber\MSP430_Task.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for MSP430_Task\Gerber Files\Gerber\MSP430_Task.GTL
+DocumentPath=Project Outputs for MSP430_Task\Gerber Files\Gerber\MSP430_Task.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for MSP430_Task\Gerber Files\Gerber\MSP430_Task.GTO
+DocumentPath=Project Outputs for MSP430_Task\Gerber Files\Gerber\MSP430_Task.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for MSP430_Task\Gerber Files\Gerber\MSP430_Task.GTP
+DocumentPath=Project Outputs for MSP430_Task\Gerber Files\Gerber\MSP430_Task.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for MSP430_Task\Gerber Files\Gerber\MSP430_Task.GTS
+DocumentPath=Project Outputs for MSP430_Task\Gerber Files\Gerber\MSP430_Task.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for MSP430_Task\Gerber Files\Gerber\MSP430_Task.REP
+DocumentPath=Project Outputs for MSP430_Task\Gerber Files\Gerber\MSP430_Task.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for MSP430_Task\Gerber Files\Gerber\MSP430_Task.RUL
+DocumentPath=Project Outputs for MSP430_Task\Gerber Files\Gerber\MSP430_Task.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument14]
+DocumentPath=Project Outputs for MSP430_Task\Gerber Files\Gerber\MSP430_Task.REP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for MSP430_Task\Gerber Files\Gerber\MSP430_Task.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Free Documents\Export STEP\ExportSTEP\MSP430_Task.step
 DItemRevisionGUID=
 
