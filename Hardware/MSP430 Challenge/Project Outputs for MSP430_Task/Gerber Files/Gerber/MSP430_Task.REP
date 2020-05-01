@@ -2,6 +2,35 @@
 FileName = MSP430_Task.GBR
 AutoAperture = True
 *************************************************************
+Generating : Top Layer
+      File : MSP430_Task.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D27
+    D28
+    D29
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
 Generating : Top Overlay
       File : MSP430_Task.GTO
 
@@ -18,69 +47,6 @@ Used DCodes :
     D16
     D17
     D18
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : MSP430_Task.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D41
-    D46
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : MSP430_Task.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-*************************************************************
-
-*************************************************************
-Generating : Board Outline
-      File : MSP430_Task.GM2
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : MSP430_Task.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -109,32 +75,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : MSP430_Task.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D17
-    D19
-    D20
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D42
-    D43
-    D44
-    D45
-*************************************************************
-
-*************************************************************
 Generating : Bottom Paste
       File : MSP430_Task.GBP
 
@@ -149,6 +89,33 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Solder
+      File : MSP430_Task.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
 Generating : Bottom Layer
       File : MSP430_Task.GBL
 
@@ -158,8 +125,39 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D17
-    D44
+    D15
     D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : MSP430_Task.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D41
+    D42
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : MSP430_Task.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
 *************************************************************
 
