@@ -6,25 +6,28 @@ const int busnum = 1; //* For I2C port 1 ons rp1
 __u8 reg = 0x10; //* Device register to access 
 int value;
 
-void main(){
+void main()
+{
 
     rpiI2cSetup(addr,busnum); //Set up the I2C Device
 
     int numb = 1; //control for i2c bus
-    
+
     printf("Enter 1 for ON or 0 for OFF");
     while (numb==1)
     {
         scanf("%i", value);
+
         if (value == 1)
         {
             rpiI2cWrite(reg, 1);
         }
-		elseif (value == 0)
+		else if (value == 0)
         {
             rpiI2cWrite(reg, 1);
         }
-		else numb = 0;
+		else 
+            numb = 0;
     }
     
     return 0;
