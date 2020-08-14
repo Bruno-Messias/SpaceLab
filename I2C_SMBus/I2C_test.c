@@ -12,11 +12,12 @@ void main()
     rpiI2cSetup(addr,busnum); //Set up the I2C Device
 
     int numb = 1; //control for i2c bus
+    int value; 
 
-    printf("Enter 1 for ON or 0 for OFF");
+    printf("Enter 1 for ON or 0 for OFF\n");
     while (numb==1)
     {
-        scanf("%i", value);
+        scanf("%i", &value);
 
         if (value == 1)
         {
@@ -29,6 +30,4 @@ void main()
 		else 
             numb = 0;
     }
-    
-    return 0;
 };
