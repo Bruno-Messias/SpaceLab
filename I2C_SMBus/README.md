@@ -4,10 +4,8 @@
     - I2C_SMbus.c
     - I2C_test.c
     - Arduino_I2C
-
-        arduino_i2c.ino
-
-        rpi_i2c.py
+        -arduino_i2c.ino
+        -rpi_i2c.py
 
 ---
 
@@ -53,3 +51,7 @@ $ ./test
 ### Documentation about SMbus/kernel linux
 
 Can acess the documentation from [here](https://www.kernel.org/doc/html/latest/i2c/dev-interface.html).
+----
+### Limitacion
+
+Only can read or write by bytes  
