@@ -25,7 +25,7 @@ void main()
         }
 		else if (value == 0)
         {
-            rpiI2cWrite(reg, 1);
+            rpiI2cWrite(reg, 0);
         }
 		else 
             numb = 0;
